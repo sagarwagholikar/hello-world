@@ -1,3 +1,3 @@
 Hello Artifactory and Sonar
 I am Sagar and learning devops training
-This is Wednesday
+This is Wednesdayy
